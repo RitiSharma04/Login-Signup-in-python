@@ -1,0 +1,12 @@
+{
+ "Username": "riti sharma",
+ "Gender": "f",
+ "Phone No": 1234567890,
+ "Email": "riti@gmail.com",
+ "DOB": [
+  2003,
+  8,
+  4
+ ],
+ "password": "riti@123"
+}
